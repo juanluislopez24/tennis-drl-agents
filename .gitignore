@@ -1,5 +1,5 @@
-/envs/tennis/Tennis_Data
-/envs/soccer/Soccer_Data
+# /envs/tennis/Tennis_Data
+# /envs/soccer/Soccer_Data
 unity-environment.log
 /.ipynb_checkpoints
 /__pycache__
